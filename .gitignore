@@ -67,4 +67,17 @@ Adventure Time/Library/
 # Ignorer les fichiers temporaires
 Temp/
 
+# 🔒 Ne pas push ces fichiers sensibles
 user.keystore
+*.keystore
+*.jks
+*.env
+config.json
+config.yaml
+secrets.xml
+google-services.json
+credentials.json
+database.db
+database.sql
+*.pem
+
