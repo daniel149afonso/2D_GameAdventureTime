@@ -46,9 +46,9 @@ Si vous souhaitez contribuer à l'amélioration du jeu :
 2. **Clonez le projet** :  
    ```sh
    git clone https://github.com/tonpseudo/2d-game-adventure-time.git
-## 🎥 Vidéo de présentation
-🎬 Regardez le gameplay du jeu sur YouTube :  
-[![Vidéo YouTube](https://img.youtube.com/vi/TON_ID_VIDEO_YOUTUBE/maxresdefault.jpg)](https://www.youtube.com/watch?v=TON_ID_VIDEO_YOUTUBE)
+## 🎥 Tutoriel Suivi
+🎬 Regardez le tutoriel du jeu sur YouTube :  
+[![Vidéo YouTube]([https://img.youtube.com/vi/TON_ID_VIDEO_YOUTUBE/maxresdefault.jpg)](https://www.youtube.com/watch?v=TON_ID_VIDEO_YOUTUBE](https://www.youtube.com/watch?v=Ii-scMenaOQ&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U))
 
 ---
 
