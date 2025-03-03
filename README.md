@@ -56,7 +56,7 @@ Si vous souhaitez contribuer à l'amélioration du jeu :
 Ce jeu utilise des assets gratuits provenant de diverses sources. Merci aux créateurs pour leur travail incroyable ! 🙌  
 
 ### **🖼️ Assets graphiques**
-- [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
+- [Pixel Adventure 1]:(https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360) – Auteur : Pixel Frog
 - [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
 
 ### **🎵 Effets sonores & Musiques**
