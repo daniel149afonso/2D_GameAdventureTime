@@ -46,3 +46,28 @@ Si vous souhaitez contribuer à l'amélioration du jeu :
 2. **Clonez le projet** :  
    ```sh
    git clone https://github.com/tonpseudo/2d-game-adventure-time.git
+## 🎥 Vidéo de présentation
+🎬 Regardez le gameplay du jeu sur YouTube :  
+[![Vidéo YouTube](https://img.youtube.com/vi/TON_ID_VIDEO_YOUTUBE/maxresdefault.jpg)](https://www.youtube.com/watch?v=TON_ID_VIDEO_YOUTUBE)
+
+---
+
+## 🎨 Crédits & Assets utilisés
+Ce jeu utilise des assets gratuits provenant de diverses sources. Merci aux créateurs pour leur travail incroyable ! 🙌  
+
+### **🖼️ Assets graphiques**
+- [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
+- [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
+
+### **🎵 Effets sonores & Musiques**
+- 🎶 **Musique principale** : ["Nom de la musique"](Lien vers la musique) – Auteur : Nom de l'auteur  
+- 🔊 **Effets sonores** : ["Pack de sons"](Lien vers les sons) – Source : Nom du site  
+
+### **📜 Licence & Attribution**
+Tous les assets utilisés sont sous licence **Creative Commons** ou proviennent de **ressources gratuites** autorisées pour un usage dans les jeux vidéo.  
+
+Si vous êtes l'auteur d'un asset et souhaitez être mentionné différemment, n'hésitez pas à me contacter.  
+
+---
+
+
