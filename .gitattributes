@@ -1,0 +1,10 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so" filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so" filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib" filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so" filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/Bee/artifacts/Android/iz17e/libil2cpp.so" filter=lfs diff=lfs merge=lfs -text
+"Adventure Time/Library/Bee/artifacts/objcopy_b9ry/libil2cpp.dbg.so" filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dbg.so filter=lfs diff=lfs merge=lfs -text

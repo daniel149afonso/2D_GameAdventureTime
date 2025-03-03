@@ -1,0 +1,69 @@
+# Ignore les fichiers temporaires
+*.tmp
+*.unityproj
+*.pdb
+
+# Ignorer le répertoire de construction de Unity
+/[Bb]uild*/
+
+# Ignorer les fichiers de configuration locaux spécifiques à Unity
+/Library/
+/Temp/
+/obj/
+
+# Ignorer les fichiers de cache
+*.pidb.meta
+*.pidb
+*.meta
+
+# Ignorer les fichiers volumineux
+*.psd
+*.xcf
+*.wav
+*.mp3
+*.ogg
+*.tga
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.bmp
+*.tif
+*.tiff
+*.iff
+*.asset
+*.fbx
+*.3ds
+*.max
+*.obj
+*.dll
+*.pdf
+
+# Ignorer les fichiers de sauvegarde
+*~
+
+# Ignorer les fichiers système Mac OS
+.DS_Store
+
+# Ignorer les fichiers de cache de Visual Studio
+.vs/
+/.vscode/
+
+# Ignorer les fichiers de cache de Rider
+.idea/
+*.sln.iml
+
+# Ignorer les fichiers de sauvegarde Emacs
+*~
+
+# Ignorer les fichiers de cache de Sublime Text
+*.sublime-workspace
+
+# Ignorer les fichiers de compilation générés auto
+Adventure Time/Library/
+
+.gitignore text eol=lf
+
+# Ignorer les fichiers temporaires
+Temp/
+
