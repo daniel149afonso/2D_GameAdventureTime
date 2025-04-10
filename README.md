@@ -4,7 +4,7 @@
 
 ## <a name="english"></a>🇬🇧 English Version
 
-# 🎮 2D Game Adventure Time (English version)
+# 🎮 2D Game Adventure Time
 
 ## 📖 Game Overview
 **2D Game Adventure Time** is a 2D platformer where you play as a hero exploring a world full of obstacles, enemies, and hidden secrets. With **short and long jump mechanics**, collectible items, and progressively harder levels, this game will challenge your reflexes! 🏃‍♂️💨
@@ -52,8 +52,10 @@ If you'd like to contribute to improving the game:
 2. **Clone the project**:  
    ```sh
    git clone https://github.com/yourusername/2d-game-adventure-time.git
+---
+## <a name="francais"></a>🇬🇧 Version Française
 
-# 🎮 2D Game Adventure Time (French version)
+# 🎮 2D Game Adventure Time)
 
 ## 📖 Présentation du jeu
 **2D Game Adventure Time** est un jeu de plateforme en 2D où vous incarnez un héros parcourant un monde rempli d'obstacles, d'ennemis et de secrets à découvrir. Avec des mécaniques de **sauts longs et courts**, des objets à collecter et des défis progressifs, ce jeu mettra vos réflexes à l'épreuve ! 🏃‍♂️💨
