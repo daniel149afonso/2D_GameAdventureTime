@@ -1,6 +1,8 @@
 ## 🌍 Language / Langue
 
-[🇬🇧 English](#-english-version) | [🇫🇷 Français](#-version-française)
+[🇬🇧 English](#english) | [🇫🇷 Français](#francais)
+
+## <a name="english"></a>🇬🇧 English Version
 
 # 🎮 2D Game Adventure Time (English version)
 
