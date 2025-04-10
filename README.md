@@ -1,4 +1,53 @@
-# 🎮 2D Game Adventure Time
+# 🎮 2D Game Adventure Time (English version)
+
+## 📖 Game Overview
+**2D Game Adventure Time** is a 2D platformer where you play as a hero exploring a world full of obstacles, enemies, and hidden secrets. With **short and long jump mechanics**, collectible items, and progressively harder levels, this game will challenge your reflexes! 🏃‍♂️💨
+
+🔹 **Genre**: Platform / Adventure  
+🔹 **Game mode**: Single-player  
+🔹 **Platform**: Android  
+🔹 **Engine**: Unity  
+
+---
+
+## 🎮 **How to Play**
+1. **Movement**:
+   - 🔹 Tap the left/right buttons to move the character.
+   - 🔹 Swipe between buttons for smooth movement.
+
+2. **Jumping**:
+   - ⏫ Tap once for a **short jump**.
+   - ⏫ Hold the button for a **long jump**.
+
+3. **Objective**:
+   - 💎 Collect items and avoid obstacles.
+   - ⚔️ Fight enemies and reach the level’s goal.
+
+---
+
+## 📲 **Installation (Android)**
+1. **Download the APK**: [Download link here]()
+2. **Allow installation from unknown sources** (in your Android settings).
+3. **Install and launch the game!** 🚀
+
+---
+
+## ⚙️ **Technologies Used**
+- 🎮 **Game engine**: Unity  
+- 💻 **Language**: C#  
+- 🎵 **Assets & Sounds**: Free resources and custom-made content  
+- 📂 **Project management**: Git & GitHub  
+
+---
+
+## 🚀 **How to Contribute**
+If you'd like to contribute to improving the game:
+1. **Fork this repository**.
+2. **Clone the project**:  
+   ```sh
+   git clone https://github.com/yourusername/2d-game-adventure-time.git
+
+# 🎮 2D Game Adventure Time (French version)
 
 ## 📖 Présentation du jeu
 **2D Game Adventure Time** est un jeu de plateforme en 2D où vous incarnez un héros parcourant un monde rempli d'obstacles, d'ennemis et de secrets à découvrir. Avec des mécaniques de **sauts longs et courts**, des objets à collecter et des défis progressifs, ce jeu mettra vos réflexes à l'épreuve ! 🏃‍♂️💨
@@ -26,7 +75,7 @@
 ---
 
 ## 📲 **Installation (Android)**
-1. **Télécharger l’APK** : [Lien de téléchargement ici](https://github.com/tonpseudo/2d-game-adventure-time/releases/download/v1.0/jeu.apk)
+1. **Télécharger l’APK** : [Lien de téléchargement ici]()
 2. **Autoriser l'installation depuis des sources inconnues** (dans les paramètres Android).
 3. **Installer et lancer le jeu !** 🚀
 
