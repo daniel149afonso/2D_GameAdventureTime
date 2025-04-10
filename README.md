@@ -1,3 +1,7 @@
+## 🌍 Language / Langue
+
+[🇬🇧 English](#-english-version) | [🇫🇷 Français](#-version-française)
+
 # 🎮 2D Game Adventure Time (English version)
 
 ## 📖 Game Overview
