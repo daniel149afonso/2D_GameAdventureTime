@@ -53,7 +53,7 @@ If you'd like to contribute to improving the game:
    ```sh
    git clone https://github.com/yourusername/2d-game-adventure-time.git
 ---
-## <a name="francais"></a>🇬🇧 Version Française
+## <a name="francais"></a>FR Version Française
 
 # 🎮 2D Game Adventure Time)
 
