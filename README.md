@@ -32,7 +32,7 @@
 ---
 
 ## 📲 **Installation (Android)**
-1. **Download the APK**: [Download link here]()
+1. **Download the APK**: [Download link here](https://github.com/daniel149afonso/2d-game-adventure-time/releases/download/game/game.apk)
 2. **Allow installation from unknown sources** (in your Android settings).
 3. **Install and launch the game!** 🚀
 
@@ -83,7 +83,7 @@ If you'd like to contribute to improving the game:
 ---
 
 ## 📲 **Installation (Android)**
-1. **Télécharger l’APK** : [Lien de téléchargement ici]()
+1. **Télécharger l’APK** : [Lien de téléchargement ici](https://github.com/daniel149afonso/2d-game-adventure-time/releases/download/game/game.apk)
 2. **Autoriser l'installation depuis des sources inconnues** (dans les paramètres Android).
 3. **Installer et lancer le jeu !** 🚀
 
