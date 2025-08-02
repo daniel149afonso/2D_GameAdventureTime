@@ -33,11 +33,9 @@ public class DeathPlayer : MonoBehaviour
             respawn= transform.position;
         }
         //Collision with Trap --> Die
-        if (collision.gameObject.CompareTag("Trap")|| collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Trap") || collision.gameObject.CompareTag("Enemy"))
         {
-            
-            StartCoroutine(WaitBefore());
-            
+            StartCoroutine(WaitBefore()); 
         }
     }
     private void Update()
@@ -60,7 +58,7 @@ public class DeathPlayer : MonoBehaviour
     }
     private void CheckFalling()
     {
-        if ( rb.velocity.y < deathFalling)
+        if (rb.velocity.y < deathFalling)
         {
             StartCoroutine(WaitBefore());
         }

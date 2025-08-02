@@ -138,7 +138,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 float idle = 0f;
                 rb.velocity = new Vector2(idle * speedMove, rb.velocity.y);//dirX est soit + ou -
-
             }
         }
 
@@ -168,7 +167,6 @@ public class PlayerMovement : MonoBehaviour
         if (rb.velocity.y > minJumpVelocity)
         {
             state = MovementState.jumping;
-
         }
         else if (rb.velocity.y < minFallVelocity)
         {

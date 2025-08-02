@@ -29,5 +29,4 @@ public class ItemsCollecting : MonoBehaviour
             Debug.Log("Cherries: " + cherries);
         }
     }
-
 }
