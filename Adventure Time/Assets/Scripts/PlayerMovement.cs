@@ -49,6 +49,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        ArrowBoard();
         Movements();
         Animations();
         HandleJump();
@@ -66,6 +67,22 @@ public class PlayerMovement : MonoBehaviour
         {
             // Arrête la prolongation du saut si le temps est écoulé
             isHoldingJump = false;
+        }
+    }
+
+    private void ArrowBoard()
+    {
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            moveLeft = true;
+            moveRight = false;
+            Debug.Log("Left pressed");
+        }
+        else if (Input.GetKey(KeyCode.RightArrow))
+        {
+            moveLeft = false;
+            moveRight = true;
+            Debug.Log("Right pressed");
         }
     }
     public void PointerDownRightButton()
