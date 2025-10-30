@@ -6,6 +6,8 @@
 
 # 🎮 2D Game Adventure Time
 
+<img width="593" height="315" alt="Capture d'écran 2025-10-30 174603" src="https://github.com/user-attachments/assets/15a6e5ab-3ad3-4ccc-8528-3db6ed4bc1e6" />
+
 ## 📖 Game Overview
 **2D Game Adventure Time** is a 2D platformer where you play as a hero exploring a world full of obstacles, enemies, and hidden secrets. With **short and long jump mechanics**, collectible items, and progressively harder levels, this game will challenge your reflexes! 🏃‍♂️💨
 
