@@ -53,7 +53,7 @@ If you'd like to contribute to improving the game:
 1. **Fork this repository**.
 2. **Clone the project**:  
    ```sh
-   git clone https://github.com/yourusername/2d-game-adventure-time.git
+   git clone https://github.com/daniel149afonso/2d-game-adventure-time.git
 ---
 ## <a name="francais"></a>FR Version Française
 
