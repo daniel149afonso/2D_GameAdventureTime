@@ -111,22 +111,22 @@ Si vous souhaitez contribuer à l'amélioration du jeu :
 
 ---
 
-## 🎨 Crédits & Assets utilisés
+## 🎨 Credits & Assets Used
 Ce jeu utilise des assets gratuits provenant de diverses sources. Merci aux créateurs pour leur travail incroyable ! 🙌  
 
-### **🖼️ Assets graphiques**
+### **🖼️ Graphic Assets **
 - [Pixel Adventure 1]:(https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360) – Auteur : Pixel Frog
 - [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
 
-### **🎵 Effets sonores & Musiques**
-- 🎶 **Musique principale** : ["Nom de la musique"](Lien vers la musique) – Auteur : Nom de l'auteur  
-- 🔊 **Effets sonores** : ["Pack de sons"](Lien vers les sons) – Source : Nom du site  
+### **🎵 Sound Effects and Audio**
+- 🎶 **Main music**: ["
+Final Fantasy X HD - Chocobo Jam Remaster OST"] - (https://www.youtube.com/watch?v=K65P9C9rhTA))
+- 🔊 **Sound Effects**: ["Sound Pack"](Link to sounds) – Source: Website Name  
 
 ### **📜 Licence & Attribution**
-Tous les assets utilisés sont sous licence **Creative Commons** ou proviennent de **ressources gratuites** autorisées pour un usage dans les jeux vidéo.  
+All assets used are licensed under **Creative Commons** or come from **free resources** authorized for use in video games.
 
-Si vous êtes l'auteur d'un asset et souhaitez être mentionné différemment, n'hésitez pas à me contacter.  
-
+If you are the author of an asset and would like to be credited differently, please feel free to contact me.
 ---
 
 
