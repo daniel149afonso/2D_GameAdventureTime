@@ -24,7 +24,7 @@ public class BounceTrampoline : MonoBehaviour
         if (collision.transform.name == "Player")
         {
             SoundTrampoline();
-            rbPlayer.velocity = new Vector2(rbPlayer.velocity.x, jumpForce);
+            rbPlayer.linearVelocity = new Vector2(rbPlayer.linearVelocity.x, jumpForce);
             animT.SetBool("bounce", true);
             Debug.Log("You bounce");
         }

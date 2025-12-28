@@ -58,7 +58,7 @@ public class DeathPlayer : MonoBehaviour
     }
     private void CheckFalling()
     {
-        if (rb.velocity.y < deathFalling)
+        if (rb.linearVelocity.y < deathFalling)
         {
             StartCoroutine(WaitBefore());
         }
