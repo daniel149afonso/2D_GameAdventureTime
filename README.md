@@ -6,6 +6,8 @@
 
 # 🎮 2D Game Adventure Time
 
+<img width="593" height="315" alt="Capture d'écran 2025-10-30 174603" src="https://github.com/user-attachments/assets/15a6e5ab-3ad3-4ccc-8528-3db6ed4bc1e6" />
+
 ## 📖 Game Overview
 **2D Game Adventure Time** is a 2D platformer where you play as a hero exploring a world full of obstacles, enemies, and hidden secrets. With **short and long jump mechanics**, collectible items, and progressively harder levels, this game will challenge your reflexes! 🏃‍♂️💨
 
@@ -51,7 +53,28 @@ If you'd like to contribute to improving the game:
 1. **Fork this repository**.
 2. **Clone the project**:  
    ```sh
-   git clone https://github.com/yourusername/2d-game-adventure-time.git
+   git clone https://github.com/daniel149afonso/2d-game-adventure-time.git
+
+## 🎥 Game Tutorial
+🎬 Watch the tutorial on YouTube :  
+(https://www.youtube.com/watch?v=Ii-scMenaOQ&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
+
+---
+
+## 🎨 Credits & Assets Used
+This game uses free assets from various sources. Thank you to the creators for their amazing work. ! 🙌  
+
+### **🖼️ Graphic Assets **
+- [Pixel Adventure 1]:(https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360) – Author : Pixel Frog
+
+### **🎵 Sound Effects and Audio**
+- 🎶 **Main music**: ["
+Final Fantasy X HD - Chocobo Jam Remaster OST"] - (https://www.youtube.com/watch?v=K65P9C9rhTA))
+- 🔊 **Sound Effects**: ["Sound Pack"](Link to sounds) – Source: Website Name  
+
+### **📜 Licence & Attribution**
+All assets used are licensed under **Creative Commons** or come from **free resources** authorized for use in video games.
+
 ---
 ## <a name="francais"></a>FR Version Française
 
@@ -103,28 +126,7 @@ Si vous souhaitez contribuer à l'amélioration du jeu :
 2. **Clonez le projet** :  
    ```sh
    git clone https://github.com/tonpseudo/2d-game-adventure-time.git
-## 🎥 Tutoriel Suivi
-🎬 Regardez le tutoriel du jeu sur YouTube :  
-(https://www.youtube.com/watch?v=Ii-scMenaOQ&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
 
----
-
-## 🎨 Crédits & Assets utilisés
-Ce jeu utilise des assets gratuits provenant de diverses sources. Merci aux créateurs pour leur travail incroyable ! 🙌  
-
-### **🖼️ Assets graphiques**
-- [Pixel Adventure 1]:(https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360) – Auteur : Pixel Frog
-- [Nom du pack d'assets](Lien vers l'asset) – Auteur : Nom de l'auteur
-
-### **🎵 Effets sonores & Musiques**
-- 🎶 **Musique principale** : ["Nom de la musique"](Lien vers la musique) – Auteur : Nom de l'auteur  
-- 🔊 **Effets sonores** : ["Pack de sons"](Lien vers les sons) – Source : Nom du site  
-
-### **📜 Licence & Attribution**
-Tous les assets utilisés sont sous licence **Creative Commons** ou proviennent de **ressources gratuites** autorisées pour un usage dans les jeux vidéo.  
-
-Si vous êtes l'auteur d'un asset et souhaitez être mentionné différemment, n'hésitez pas à me contacter.  
-
----
+If you are the author of an asset and would like to be credited differently, please feel free to contact me
 
 
